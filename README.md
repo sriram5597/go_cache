@@ -1,7 +1,4 @@
 # In-Memory-Cache-Golang
-<<<<<<< HEAD
-=======
-
 
 ### Introduction
 
@@ -30,4 +27,3 @@ Payload:
     "value": 400,
     "expiry": 10
 }
->>>>>>> 6a881c6 (Updated ReadMD File)
