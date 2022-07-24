@@ -15,6 +15,8 @@ src/api/routers -> Created and map handlers with api routes
 
 src/api/handlers -> Contains all the handler functions for api, request/response payload schema
 
+Postman Collection -> Which contains the api request endpoint and response which can be imported to postman
+
 
 ### API Endpoints
 
